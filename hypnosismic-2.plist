@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>⚖️</string>
+		<key>shortcut</key>
+		<string>ひとや</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Heaven & Hell</string>
+		<key>shortcut</key>
+		<string>ひとや</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>東方天</string>
+		<key>shortcut</key>
+		<string>とうほうてん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>乙統女</string>
+		<key>shortcut</key>
+		<string>おとめ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>勘解由小路</string>
+		<key>shortcut</key>
+		<string>かでのこうじ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>無花果</string>
+		<key>shortcut</key>
+		<string>いちじく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>合歓</string>
+		<key>shortcut</key>
+		<string>ねむ</string>
+	</dict>
+</array>
+</plist>
