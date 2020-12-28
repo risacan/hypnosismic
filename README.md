@@ -1,4 +1,4 @@
-# Hipnosismic
+# Hypnosismic
 
 ## macOS の場合
 
