@@ -44,5 +44,11 @@
 		<key>shortcut</key>
 		<string>ねむ</string>
 	</dict>
+		<dict>
+		<key>phrase</key>
+		<string>中王区</string>
+		<key>shortcut</key>
+		<string>ちゅうおうく</string>
+	</dict>
 </array>
 </plist>
